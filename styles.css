@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(223, 235, 243);
+}
+
+.project-box {
+    width: 350px;
+    height: 220px;
+    background-color: white;
+    border-left: 8px rgb(255, 179, 73) solid;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 1.2em;
+}
+
+#text-box {
+    position: relative;
+    top: 30px;
+    left: 20px;
+    width: 300px;
+}
